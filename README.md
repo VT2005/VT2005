@@ -1,7 +1,5 @@
-## Hi there 👋
-
-My name is Vaishnavi.
-
+## Hi there,I'm Vaishnavi.
+- 🔭 I’m currently a Aiml undergrad student.
 
 <!--
 **VT2005/VT2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
