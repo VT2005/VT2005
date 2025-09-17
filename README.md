@@ -1,6 +1,6 @@
 ## Hi there,I'm Vaishnavi.
 - 🔭 I’m an Aiml undergrad student.
-- 🌱 I’m currently learning and improving my skills in Data Structures and Algorithms and Machine Learning
+- 🌱 Currently learning and improving my skills in Data Structures and Algorithms and Machine Learning
 
 <!--
 **VT2005/VT2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
