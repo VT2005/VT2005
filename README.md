@@ -2,6 +2,11 @@
 - 🔭 I’m an Aiml undergrad student focusing on building models to solve real life problems.
 - 🌱 Currently working on Data Structures and Algorithms and Machine Learning.
 
+Achievements:
+-HSBC HACKATHON 2025 WINNER
+-AMAZON HACKON SEASON 5 TOP 130
+-TIMES NIE NEWS REPORTER 2017
+
 <!--
 **VT2005/VT2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
