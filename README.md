@@ -1,6 +1,6 @@
 ## Hi there,I'm Vaishnavi.
 - 🔭 I’m an Aiml undergrad student focusing on building models to solve real life problems.
-- 🌱 Currently working on Data Structures and Algorithms and Machine Learning.
+- 🌱 Honing DSA and Machine Learning skills with Python.
 
 Achievements:
 -  HSBC HACKATHON 2025 WINNER
